@@ -1,0 +1,14 @@
+{
+  "name": "index_test",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexhuszagh/notable-index-test.git"
+  },
+  "author": "Alex Huszagh",
+  "license": "Unlicense",
+  "dependencies": {
+    "yaml": "^1.10.2"
+  }
+}
